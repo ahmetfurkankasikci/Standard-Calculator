@@ -1,0 +1,41 @@
+.container{
+    margin: 40px auto;
+    width: 300px;
+    height: 350px;
+   
+}
+.out{
+  
+    height: 350px;
+}
+#in{
+    width: 98%;
+
+    height: 40px;  
+}
+
+.sayi{
+    background-color: #F1F1F1;
+    height: 40px;
+}
+#esit{
+    background-color: #307CF9;
+    height: 40px;
+    color:#FFFFFF;
+}
+.buton2{
+    background-color: #DDDDDD;
+    height: 40px;
+
+}
+
+.sayi:hover{
+    cursor: pointer;
+}
+
+#esit:hover{
+    cursor: pointer;
+}
+.buton2:hover{
+    cursor:pointer;
+}
